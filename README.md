@@ -1,6 +1,6 @@
 # SimpleFileRenamer
 
 
-<h1>Bugs:<h1>
+<h1>Bugs:</h1>
   
-Skips randomly?
+<list>Skips randomly?<\list>
