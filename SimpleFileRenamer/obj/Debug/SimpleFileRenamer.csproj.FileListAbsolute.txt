@@ -1,0 +1,15 @@
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.exe.config
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.exe
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.pdb
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.csprojAssemblyReference.cache
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\MainWindow.g.cs
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\App.g.cs
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer_MarkupCompile.cache
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer_MarkupCompile.lref
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\MainWindow.baml
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.g.resources
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.Properties.Resources.resources
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.csproj.GenerateResource.cache
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.csproj.CoreCompileInputs.cache
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.exe
+C:\KODING\SimpleFileRenamer\SimpleFileRenamer\obj\Debug\SimpleFileRenamer.pdb
