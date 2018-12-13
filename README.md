@@ -1,5 +1,6 @@
 # SimpleFileRenamer
 
 
-<h1>Bugs
-<list> Skips randomly?
+<h1>Bugs:<h1>
+  
+Skips randomly?
